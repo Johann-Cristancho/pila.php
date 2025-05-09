@@ -1,0 +1,15 @@
+Declaración del Array Vacío:
+
+Se crea un array vacío llamado $pila.
+
+Añadir Elementos a la Pila:
+
+Utilizando la función array_push, se agregan varios elementos al array $pila: "sword", "shield", "staff", "cristals", "horse", "lighting" y "hammer".
+
+Sacar el Último Elemento de la Pila:
+
+Se utiliza la función array_pop para eliminar y devolver el último elemento del array $pila, almacenándolo en la variable $ultimo_en_pila.
+
+Imprimir el Último Elemento:
+
+Finalmente, se imprime en pantalla el mensaje "último elemento:" seguido del valor contenido en la variable $ultimo_en_pila.
